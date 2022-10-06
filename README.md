@@ -1,11 +1,11 @@
 # SETTING SNAGGIT 2019
 
-### Link download snaggit
+> ### Link download snaggit
 ```
 https://drive.google.com/drive/u/0/folders/1_VjocelVTBzRRooVycnLmR2FgsMsHsTI
 ```
 
-### GUIDE SETTING 
+> ### GUIDE SETTING 
 
 ![image](https://user-images.githubusercontent.com/71063877/194331372-01003e15-07df-48b3-8a79-16862b217cb6.png)
 
