@@ -2,7 +2,7 @@
 
 > ### Link download snaggit
 ```
-https://drive.google.com/drive/u/0/folders/1_VjocelVTBzRRooVycnLmR2FgsMsHsTI
+[DOWNLOAD](https://drive.google.com/drive/u/0/folders/1_VjocelVTBzRRooVycnLmR2FgsMsHsTI)
 ```
 
 > ### GUIDE SETTING 
