@@ -17,7 +17,7 @@ https://drive.google.com/drive/u/0/folders/1_VjocelVTBzRRooVycnLmR2FgsMsHsTI
 
 ![image](https://user-images.githubusercontent.com/71063877/194332040-2139ceda-0cd9-4aa0-b2a7-b1125c41de12.png)
 
-Please enter one in all keys in the bellow:
+Please enter one in all keys in the below:
 ```
 CZERR-5ACCC-AJBM7-E2A7M-N3F6E
 YNJK2-Q43CR-A47CC-HCCD6-H6B78
@@ -30,14 +30,14 @@ Y63CC-NMUAC-YXUC5-CH4JC-XD6RA
 
 ![image](https://user-images.githubusercontent.com/71063877/194332502-ca5482fa-0e16-4c72-9b27-d2488b01ee6c.png)
 
-If you want set key, please do as bellow:
+If you want set key, please do as below:
 
 ![image](https://user-images.githubusercontent.com/71063877/194332809-149af110-9726-4d7f-9601-853a44a68a2c.png)
 
 
 ![image](https://user-images.githubusercontent.com/71063877/194333266-c7ba5743-e37c-40af-a3e3-986e6ccfc782.png)
 
-Then setting, hot keys as bellow:
+Thereafter  setting, hot keys as below:
 
 ```
 Ctrl + H : Phím tắt chung
