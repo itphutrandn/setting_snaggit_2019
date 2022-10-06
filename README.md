@@ -37,7 +37,7 @@ If you want set key, please do as below:
 
 ![image](https://user-images.githubusercontent.com/71063877/194333266-c7ba5743-e37c-40af-a3e3-986e6ccfc782.png)
 
-Thereafter  setting, hot keys as below:
+After  setting, hot keys as below:
 
 ```
 Ctrl + H : Phím tắt chung
